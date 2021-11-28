@@ -1,6 +1,6 @@
 Nft Projects
 
-<img align='center' src='./logo.png' alt='logo' height='200px'>
+<img align='center' src='./Progetto senza titolo (40).png.png' alt='logo' height='200px'>
 
 | Project Name | Link | 
 | --- | --- |
