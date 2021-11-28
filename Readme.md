@@ -20,6 +20,7 @@ Blockchain technology is used to give the NFT a public **proof of ownership**.
 | VeeFriends| https://veefriends.com/|
 | Autograph.io| https://autograph.io/|
 | Cryptopunks | https://www.larvalabs.com/cryptopunks |
+| The Explorer Guild| https://www.explorerguild.io/|
 | Cryptoadz | https://cryptoadz.io/ |
 | Sneaky vampire syndicate| https://svs.gg/ |
 | Bored ape Yacht club| https://boredapeyachtclub.com/ |
