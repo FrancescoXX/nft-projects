@@ -1,6 +1,19 @@
-Nft Projects
+
+# NFT PROJECTS
+
+NFT projects is a repository to keep track of the most awesome NFT project over the internet
 
 <img align='center' src='./Progetto senza titolo (40).png' alt='logo' height='500px'>
+
+## What is an NFT
+
+A non-fungible token (NFT) is a unique, non-interchangeable unit of data stored on a digital ledger.
+
+NFTs can be associated with easily-reproducible items such as photos, videos, audio, and other types of digital files as unique items.
+
+Blockchain technology is used to give the NFT a public **proof of ownership**.
+
+## List of NFT Projects
 
 | Project Name | Link | 
 | --- | --- |
