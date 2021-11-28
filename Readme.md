@@ -1,5 +1,7 @@
 Nft Projects
 
+<img align='center' src='./logo.png' alt='logo' height='200px'>
+
 | Project Name | Link | 
 | --- | --- |
 | VeeFriends| https://veefriends.com/|
